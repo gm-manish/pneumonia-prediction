@@ -3,7 +3,7 @@
 
 Step 1: Download the Data From the Given [Source](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)<br>
 
-Step 2: Open the Notebook and Use Runall.(Since, there is huge number of parameters,there may be high usage of CPU and GPU as a result).<br>
+Step 2: Open the Notebook and Use Runall. (Since there is a considerable number of parameters, there may be high usage of CPU and GPU.)<br>
 
 Note that: We have also used model checkpointing if there is failure in training.
 
